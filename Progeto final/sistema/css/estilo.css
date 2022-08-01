@@ -1,0 +1,19 @@
+body{
+  background-color: green;
+}
+
+label{
+  color: #405c60;
+  position: relative;
+}
+
+h1{
+  font-size: 48px;
+  color: black;
+  padding: 2px 0 10px 0;
+  font-family: Arial,sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
